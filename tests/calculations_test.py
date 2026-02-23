@@ -3,7 +3,7 @@ import sys
 import os
 
 # Installed Modules
-import pytest
+import pytest 
 
 # Project Modules
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../src')))
